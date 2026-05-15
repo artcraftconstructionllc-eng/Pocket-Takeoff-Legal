@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pocket Takeoff — Privacy Policy</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #07100d; color: #fff; padding: 40px 24px; max-width: 700px; margin: 0 auto; }
+    h1 { font-size: 32px; font-weight: 900; margin-bottom: 8px; }
+    .sub { color: #6b8a7e; font-size: 14px; margin-bottom: 40px; }
+    h2 { font-size: 18px; font-weight: 800; margin: 32px 0 10px; color: #fff; }
+    p, li { font-size: 15px; color: #c8ddd4; line-height: 1.7; margin-bottom: 10px; }
+    ul { padding-left: 20px; }
+    a { color: #e8a020; }
+    .footer { margin-top: 60px; padding-top: 24px; border-top: 1px solid #1e3328; color: #6b8a7e; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <h1>📐 Pocket Takeoff</h1>
+  <p class="sub">Privacy Policy — Last updated May 2026</p>
+
+  <p>Pocket Takeoff ("we", "our", or "us") is operated by Artcraft Construction LLC. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile and web application for commercial finish estimating.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li>Email address and account credentials</li>
+    <li>Business profile information (company name, address, phone, license number, logo)</li>
+    <li>Construction documents you upload (plans, specifications, bid instructions)</li>
+    <li>Project details and bid information generated from your documents</li>
+    <li>Device push notification tokens</li>
+    <li>Payment information (processed securely by Stripe and Apple — we never store card details)</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <ul>
+    <li>To provide AI-powered commercial finish estimating services</li>
+    <li>To process documents and generate accurate takeoffs and bids</li>
+    <li>To brand bid documents with your business information</li>
+    <li>To communicate with you about your account and subscription</li>
+    <li>To send push notifications related to your account</li>
+    <li>To process subscription payments</li>
+  </ul>
+
+  <h2>AI Document Processing</h2>
+  <p>When you upload construction documents, they are sent to Anthropic's Claude AI service for analysis. Documents are processed to extract project information and generate takeoffs and bids. Anthropic does not retain or train on data submitted through their API. Document content is stored in your account for your future reference.</p>
+
+  <h2>Estimate Accuracy</h2>
+  <p>Pocket Takeoff provides AI-generated estimates as an aid to commercial contractors. Target accuracy is ±5-8% for full plan sets with complete specifications. All bids must be reviewed by a qualified estimator before submission. The submitting contractor is fully responsible for the accuracy and completeness of any bid. Pocket Takeoff is not liable for financial losses resulting from inaccuracies or bid decisions.</p>
+
+  <h2>Data Storage</h2>
+  <p>Your data is stored securely using Supabase infrastructure. Documents and bids are stored in encrypted cloud storage. We do not sell your personal information to third parties.</p>
+
+  <h2>Third-Party Services</h2>
+  <ul>
+    <li><strong>Anthropic Claude</strong> — AI document analysis and bid generation</li>
+    <li><strong>Supabase</strong> — Database, authentication, and storage</li>
+    <li><strong>Stripe</strong> — Payment processing</li>
+    <li><strong>RevenueCat</strong> — Subscription management</li>
+    <li><strong>Resend</strong> — Transactional email delivery</li>
+  </ul>
+
+  <h2>Subscription</h2>
+  <p>Pocket Takeoff offers one free bid trial, then a $99/month subscription. Subscriptions auto-renew unless canceled 24 hours before the end of the current billing period. Manage your subscription through your Apple ID, Google Play, or Stripe customer portal.</p>
+
+  <h2>Account Deletion</h2>
+  <p>You can delete your account and all associated data at any time from within the app. Open Settings, scroll to the bottom, and tap "Delete Account." This action is permanent and cannot be undone.</p>
+
+  <h2>Children's Privacy</h2>
+  <p>Our service is not directed to children under 13. We do not knowingly collect information from children under 13.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:support@bidbuddy.online">support@bidbuddy.online</a>.</p>
+
+  <div class="footer">
+    <p>© 2026 Artcraft Construction LLC — All rights reserved.</p>
+  </div>
+</body>
+</html>
